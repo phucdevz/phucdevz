@@ -1,4 +1,4 @@
-# Xin Chào! Tôi là [Truong Phuc]
+# Xin Chào! Tôi là [Truong Phuc] đến từ Việt Nam 💓
 
 ![Ảnh Đại Diện](https://i.imgur.com/yy8mm7w.png)
 
