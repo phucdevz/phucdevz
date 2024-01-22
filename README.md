@@ -1,23 +1,28 @@
-# Xin Chào! Tôi là [Truong Phuc] đến từ Việt Nam 💓
+# 👋Xin Chào! Tôi là [Truong Phuc] đến từ Việt Nam 💓
 
 ![Ảnh Đại Diện](https://i.imgur.com/yy8mm7w.png)
 
 ## Thông Tin Cá Nhân
 
-Tôi là [Truong Phuc] và tôi đam mê [Information Technology]. Tôi đã có kinh nghiệm trong [nhiều lĩnh vực nhưng không chuyên sâu].
+Tôi là Truong Phuc và tôi đam mê Information Technology. Tôi đã có kinh nghiệm nhiều lĩnh vực nhưng không chuyên sâu.
 
 ## Kỹ Năng
 
-- **Ngôn Ngữ Lập Trình:** [Liệt kê các ngôn ngữ lập trình bạn biết]
-- **Công Nghệ và Framework:** [Liệt kê công nghệ và framework mà bạn sử dụng hoặc có kinh nghiệm]
-- **Công Cụ Phát Triển:** [Liệt kê các công cụ mà bạn thường sử dụng]
+- **Ngôn Ngữ Lập Trình:** [Nodejs, Java, PHP.... ]
+- **Công Nghệ và Framework:** [Express.js, Vue.js, Spring Framework, Symfony..... ]
+- **Công Cụ Phát Triển:** [Visual Studio Code, ChatGPT,....]
 
 ## Dự Án Nổi Bật
 
-### [Tên Dự Án 1]
+### [Bot Discrod (Vermouth Network)]
 
-Mô tả ngắn về dự án và vai trò của bạn. Đính kèm các liên kết hoặc hình ảnh nếu có.
-
+- Source nền giúp mọi người phát triển hầu hết các lệnh sau này.
+- Tối ưu hóa các tính năng nhằm cải thiện sự mượt mà.
+- Với lệnh slashCommands dễ sử dụng và đẹp
+- Hiện tại đã có 22 lệnh update và còn thêm nữa trong tương lai gần.
+- Mình đang là code chính chỉ có mình thực hiện nên hơi lâu.
+- Tiến độ 60% và mình đang cố gắng hết sức
+![Demo dự án](https://i.imgur.com/TI0UQ6P.png)
 ### [Tên Dự Án 2]
 
 Mô tả ngắn về dự án và vai trò của bạn. Đính kèm các liên kết hoặc hình ảnh nếu có.
