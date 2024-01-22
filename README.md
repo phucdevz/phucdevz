@@ -28,7 +28,7 @@ Tôi là Truong Phuc và đam mê Information Technology. Tôi đã có kinh ngh
 ## 📔 Học Vấn 📔
 
 - **Bằng Cấp:** [SV NĂM NHẤT]
-- **Trường Đào Tạo:** [UTH UNIVERCITY]
+- **Trường Đào Tạo:** [UTH UNIVERSITY]
 
 ## ☎ Liên Hệ ☎
 
