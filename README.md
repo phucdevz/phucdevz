@@ -1,6 +1,6 @@
 # Xin Chào! Tôi là [Truong Phuc]
 
-![Ảnh Đại Diện]([link_to_avatar.png](https://i.imgur.com/yy8mm7w.png))
+![Ảnh Đại Diện](https://i.imgur.com/yy8mm7w.png)
 
 ## Thông Tin Cá Nhân
 
