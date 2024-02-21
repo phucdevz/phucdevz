@@ -1,10 +1,11 @@
-# 👋Xin Chào! Tôi là [Truong Phuc] đến từ Việt Nam 💓
+# 👋Xin Chào! Tôi là Truong Phuc đến từ Việt Nam 💓
 
 ![Ảnh Đại Diện](https://i.imgur.com/yy8mm7w.png)
 
 ## 🔮 Thông Tin Cá Nhân 🔮
 
-Tôi là Truong Phuc và đam mê Information Technology. Tôi đã có kinh nghiệm nhiều lĩnh vực nhưng không chuyên sâu.
+Tôi là Truong Phuc .
+Age : 
 
 ## 🔧 Kỹ Năng 🔧
 
