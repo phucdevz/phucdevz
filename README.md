@@ -2,15 +2,10 @@
 
 ![Ảnh Đại Diện](https://i.imgur.com/yy8mm7w.png)
 
-## 🔮 Thông Tin Cá Nhân 🔮
-
-Tôi là Truong Phuc .
-Age : 
-
 ## 🔧 Kỹ Năng 🔧
 
-- **Ngôn Ngữ Lập Trình:** [Nodejs, Java, PHP.... ]
-- **Công Nghệ và Framework:** [Express.js, Vue.js, Spring Framework, Symfony..... ]
+- **Ngôn Ngữ Lập Trình:** [Nodejs, PHP.... ]
+- **Công Nghệ và Framework:** [Express.js, Vue.js,..... ]
 - **Công Cụ Phát Triển:** [Visual Studio Code, ChatGPT,....]
 
 ## 👾 Dự Án Nổi Bật 👾
@@ -26,14 +21,8 @@ Age :
 - Demo dự án !
 ![Demo dự án](https://i.imgur.com/TI0UQ6P.png)
 
-## 📔 Học Vấn 📔
-
-- **Bằng Cấp:** [SV NĂM NHẤT]
-- **Trường Đào Tạo:** [UTH UNIVERSITY]
-
 ## ☎ Liên Hệ ☎
 
-- **Email:** [NLUX0405@GMAIL.COM]
 - **Telegram:** [http://t.me/luxkhongngu]
 - **Website/Portfolio:** [https://taodangcap.com/]
 
