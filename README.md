@@ -1,4 +1,4 @@
-# 👋Xin Chào! Tôi là Truong Phuc đến từ Việt Nam 💓
+#👋Hello! I'm Truong Phuc from Vietnam💓
 
 ![Ảnh Đại Diện](https://i.imgur.com/yy8mm7w.png)
 
