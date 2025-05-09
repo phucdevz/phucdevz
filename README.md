@@ -15,8 +15,6 @@
 - Tối ưu hóa các tính năng nhằm cải thiện sự mượt mà.
 - Với lệnh slashCommands dễ sử dụng và đẹp
 - Hiện tại đã có 22 lệnh update và còn thêm nữa trong tương lai gần.
-- Mình đang là code chính chỉ có mình thực hiện nên hơi lâu.
-- Tiến độ 60% và mình đang cố gắng hết sức.
 - Demo dự án !
 ![Demo dự án](https://i.imgur.com/TI0UQ6P.png)
 
