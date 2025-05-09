@@ -6,7 +6,6 @@
 
 - **Ngôn Ngữ Lập Trình:** [Nodejs, PHP.... ]
 - **Công Nghệ và Framework:** [Express.js, Vue.js,..... ]
-- **Công Cụ Phát Triển:** [Visual Studio Code, ChatGPT,....]
 
 ## 👾 Dự Án Nổi Bật 👾
 
