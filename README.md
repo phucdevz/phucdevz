@@ -1,34 +1,38 @@
-# 👋Hello! I'm Truong Phuc from Vietnam💓
+# 👋 Xin chào, mình là Trường Phục
 
-![Ảnh Đại Diện](https://i.imgur.com/yy8mm7w.png)
+Chào mừng bạn đến với GitHub của mình!  
+Mình là một lập trình viên yêu thích sáng tạo, đặc biệt trong các dự án liên quan đến:
 
-## 🔧 Kỹ Năng 🔧
+- 💻 Lập trình Web & Ứng dụng Di động
+- ✨ Hiệu ứng giao diện đẹp bằng HTML/CSS/JS
+- 📱 Ứng dụng Flutter và Android
+- ⚙️ Dự án nhỏ học tập với C++
 
-- **Ngôn Ngữ Lập Trình:** [Nodejs, PHP.... ]
-- **Công Nghệ và Framework:** [Express.js, Vue.js,..... ]
+---
 
-## 👾 Dự Án Nổi Bật 👾
+## 🧰 Kỹ năng
 
-### [Bot Discrod (Vermouth Network)]
+- Ngôn ngữ: C++, Dart, Java, HTML, CSS, JavaScript
+- Nền tảng: Flutter, Android Studio, GitHub Pages
+- Công cụ: VS Code, Figma, Git
 
-- Source nền giúp mọi người phát triển hầu hết các lệnh sau này.
-- Tối ưu hóa các tính năng nhằm cải thiện sự mượt mà.
-- Với lệnh slashCommands dễ sử dụng và đẹp
-- Hiện tại đã có 22 lệnh update và còn thêm nữa trong tương lai gần.
-- Demo dự án !
-![Demo dự án](https://i.imgur.com/TI0UQ6P.png)
+---
 
-## ☎ Liên Hệ ☎
+## 📌 Một số dự án cá nhân
 
-- **Telegram:** [http://t.me/luxkhongngu]
-- **Website/Portfolio:** [https://taodangcap.com/]
+- [🌌 NebulaDream](https://github.com/phucdevz/NebulaDream) – Hiệu ứng ngân hà bằng HTML/CSS
+- [🧧 CountdownToLunarNewYear](https://github.com/phucdevz/CountdownToLunarNewYear) – Đếm ngược Tết bằng HTML/CSS
+- [🌸 HappyWomanDay_V2](https://github.com/phucdevz/HappyWomanDay_V2) – Trang chúc mừng 8/3
+- [📱 MobileProgramming](https://github.com/phucdevz/MobileProgramming) – Bài tập Lập Trình Thiết Bị Di động
 
-## Ghi Chú
+---
 
-Bất kỳ thông tin hoặc điều quan trọng nào mà người đọc nên biết về bạn.
+## 📫 Liên hệ
 
-Nếu bạn quan tâm đến công việc hợp tác hoặc muốn trò chuyện, đừng ngần ngại liên hệ 📩 với tôi. Rất mong được kết nối với các bạn!
+- GitHub: [@phucdevz](https://github.com/phucdevz)
+- Email: phucdeeptry723@gmail.com
+- Telegram : @agencyluuvong
 
-Cảm ơn đã ghé thăm!
+---
 
-
+> Cảm ơn bạn đã ghé thăm! Nếu thấy repo nào hay, hãy ⭐ giúp mình nhé!
