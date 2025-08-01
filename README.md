@@ -3,14 +3,14 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+phucdevz's+GitHub!;Coding+with+passion+%F0%9F%94%A5;Let%E2%80%99s+build+something+amazing!" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Trường Phục (phucdevz)</h1>
+<h1 align="center">Hi , I'm Trường Phục (phucdevz)</h1>
 <p align="center">
   <img src="https://img.shields.io/github/followers/phucdevz?label=Follow&style=social" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/phucdevz?style=social" alt="GitHub Stars"/>
 </p>
 
 <p align="center">
-  🚀 Fullstack Developer | 🔥 Open-source Contributor | 👨‍💻 Tech Explorer <br/>
+  Fullstack Developer | Open-source Contributor | Tech Explorer <br/>
   <em>"Code to solve problems, create values and spread knowledge."</em>
 </p>
 
@@ -18,14 +18,14 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: **Antidetect Browser, AI projects, Mobile App with Jetpack Compose**
-- 🌱 Always learning: **AI/ML, Cloud, DevOps, System Design**
-- 💡 Interested in: **Open-source, Security, Automation, Reverse Engineering**
-- ⚡ Fun fact: *Coffee + Lo-fi = Best code flow*
+- I’m currently working on: **Antidetect Browser, AI projects, Mobile App with Jetpack Compose**
+- Always learning: **AI/ML, Cloud, DevOps, System Design**
+- Interested in: **Open-source, Security, Automation, Reverse Engineering**
+- Fun fact: *Coffee + Lo-fi = Best code flow*
 
 ---
 
-## 📌 My Featured Projects
+## My Featured Projects
 
 <a href="https://github.com/phucdevz/Vactrack_Project_V1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phucdevz&repo=Vactrack_Project_V1" />
@@ -37,7 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phucdevz&show_icons=true&theme=radical" height="180" alt="Stats" />
@@ -61,7 +61,7 @@
 
 ---
 
-## 🌐 Where to Find Me
+## Where to Find Me
 
 - 📫 Email: [phucdeeptry723@gmail.com](mailto:phucdeeptry723@gmail.com)
 - 💼 LinkedIn: [Trường Phục](https://www.linkedin.com/in/) <!-- Thay bằng link LinkedIn thật của bạn nếu có -->
