@@ -16,7 +16,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 - I’m currently working on: **Antidetect Browser, AI projects, Mobile App with Jetpack Compose**
 - Always learning: **AI/ML, Cloud, DevOps, System Design**
@@ -46,7 +46,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=flat&logo=kotlin)
@@ -63,14 +63,14 @@
 
 ## Where to Find Me
 
-- 📫 Email: [phucdeeptry723@gmail.com](mailto:phucdeeptry723@gmail.com)
-- 💼 LinkedIn: [Trường Phục](https://www.linkedin.com/in/) <!-- Thay bằng link LinkedIn thật của bạn nếu có -->
-- 📱 Facebook: [Trường Phục](https://www.facebook.com/) <!-- Tùy chọn -->
-- 🌎 Portfolio: _Updating..._
+- Email: [phucdeeptry723@gmail.com](mailto:phucdeeptry723@gmail.com)
+- LinkedIn: [Trường Phục](https://www.linkedin.com/in/)
+- Facebook: [Trường Phục](https://www.facebook.com/) 
+- Portfolio: _Updating..._
 
 ---
 
-## ✨ Fun Zone
+## Fun Zone
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230D1117&textColor=%23fff)
 ![Visitor Count](https://komarev.com/ghpvc/?username=phucdevz&color=blue)
@@ -79,5 +79,5 @@
 
 <p align="center">
   <b>“The best way to predict the future is to invent it.”</b> <br>
-  <em>- Alan Kay</em>
+  <em>- Phucdevz</em>
 </p>
