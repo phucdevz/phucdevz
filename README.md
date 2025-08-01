@@ -30,8 +30,8 @@
 <a href="https://github.com/phucdevz/antidetect-browser](https://github.com/phucdevz/Vactrack_Project_V1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phucdevz&repo=Vactrack_Project_V1" />
 </a>
-<a href="https://github.com/phucdevz/jetpack-compose-login">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phucdevz&repo=jetpack-compose-login" />
+<a href="https://github.com/phucdevz/jetpack-compose-login](https://github.com/phucdevz/Vactrack_Project_V2_APP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phucdevz&repo=Vactrack_Project_V2_APP" />
 </a>
 <!-- Add more pinned projects here as you like -->
 
@@ -64,8 +64,8 @@
 ## 🌐 Where to Find Me
 
 - 📫 Email: [phucdeeptry723@gmail.com](mailto:phucdeeptry723@gmail.com)
-- 💼 LinkedIn: [Trường Phục](https://www.linkedin.com/in/your-profile) <!-- Thay bằng link LinkedIn thật của bạn nếu có -->
-- 📱 Facebook: [Trường Phục](https://www.facebook.com/your-profile) <!-- Tùy chọn -->
+- 💼 LinkedIn: [Trường Phục](https://www.linkedin.com/in/) <!-- Thay bằng link LinkedIn thật của bạn nếu có -->
+- 📱 Facebook: [Trường Phục](https://www.facebook.com/) <!-- Tùy chọn -->
 - 🌎 Portfolio: _Updating..._
 
 ---
